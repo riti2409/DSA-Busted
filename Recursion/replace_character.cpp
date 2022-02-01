@@ -1,14 +1,3 @@
-/* replace one character from another recursively
-e.g
-input: 
-abcfasr
-replace a by x
-
-output
-xbcfxsr
-*/
-
-
 
 
 void replaceCharacter(char input[], char c1, char c2) {
