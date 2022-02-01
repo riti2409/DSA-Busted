@@ -9,7 +9,7 @@ int main() {
 	cout << *sp << endl;
 
 	string s = "abc";
-	//getline(cin, s);
+	
 	cout << s << endl;
 	
 	s = "defdef";
