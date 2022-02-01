@@ -1,12 +1,3 @@
-/*remove character from array recursively
-eg 
-input
-axbxgyx
-x
-
-output
-abgy
-*/
 
 
 #include<bits/stdc++.h>
