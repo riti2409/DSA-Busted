@@ -1,2 +1,2 @@
 # DSA-Busted
-DSA Algorithms along with some questions
+Data Structures and Algorithm questions along with Solutions
